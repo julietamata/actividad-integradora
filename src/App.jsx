@@ -1,6 +1,4 @@
 import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
 import imagen1 from '../public/imagen1.jpg'
 import './App.css'
 
@@ -27,6 +25,7 @@ function App() {
 <div class="imagen-principal">
     <img src={imagen1} alt="imagen-principal" />
 </div>
+
 
     </>
   )

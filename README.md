@@ -29,7 +29,7 @@
 
 ---
 
-## Elementos de Trabajo Pendientes
+## Elementos de Trabajo Pendientes - SPRINT 1
 
 | Elemento | Puntos de historia | Responsable | Estado | Estimado original (hrs) | Días | DoD |
 |----------|--------------------|-------------|--------|--------------------------|------|-----|
