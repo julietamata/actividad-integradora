@@ -34,16 +34,16 @@
 | Elemento | Puntos de historia | Responsable | Estado | Estimado original (hrs) | Días | DoD |
 |----------|--------------------|-------------|--------|--------------------------|------|-----|
 | **M1 – Imagen de la empresa (paleta y tipografías)** | 3 | Desarrollador | To Do | 12 | 1–5 | Validar con cliente |
-| Definir paleta de colores (HEX) | 2 |  |  |  |  |  |
-| Seleccionar tipografías principales | 2 |  |  |  |  |  |
-| Implementar variables CSS | 3 |  |  |  |  |  |
-| Aplicar tipografías al proyecto | 2 |  |  |  |  |  |
-| Integrar logotipo PNG/SVG | 2 |  |  |  |  |  |
-| Pruebas de consistencia visual + documentación | 1 |  |  |  |  |  |
-
+| ├─ Definir paleta de colores (HEX) | 2 |  |  |  |  |  |
+| ├─ Seleccionar tipografías principales | 2 |  |  |  |  |  |
+| ├─ Implementar variables CSS | 3 |  |  |  |  |  |
+| ├─ Aplicar tipografías al proyecto | 2 |  |  |  |  |  |
+| ├─ Integrar logotipo PNG/SVG | 2 |  |  |  |  |  |
+| └─ Pruebas de consistencia visual + documentación | 1 |  |  |  |  |  |
 | **M4 – Pantalla de inicio con menú principal** | 5 | Desarrollador | To Do | 18 | 1–5 | Validar con cliente |
-| Crear estructura base de la pantalla | 4 |  |  |  |  |  |
-| Diseñar tarjetas de módulos | 4 |  |  |  |  |  |
-| Implementar navegación básica | 4 |  |  |  |  |  |
-| Ajustar menú responsivo (desktop, tablet, móvil) | 4 |  |  |  |  |  |
-| Documentar y subir a GitHub | 2 |  |  |  |  |  |
+| ├─ Crear estructura base de la pantalla | 4 |  |  |  |  |  |
+| ├─ Diseñar tarjetas de módulos | 4 |  |  |  |  |  |
+| ├─ Implementar navegación básica | 4 |  |  |  |  |  |
+| ├─ Ajustar menú responsivo (desktop, tablet, móvil) | 4 |  |  |  |  |  |
+| └─ Documentar y subir a GitHub | 2 |  |  |  |  |  |
+
